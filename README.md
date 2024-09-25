@@ -1,12 +1,6 @@
-<p align="center">
-  <img src="">
-</p>
 
-<p align="center"> 
-<img src="">
-</p>
 
-## I.T. Specialist | Cloud engineer 
+## Goals: Cloud Engineer > Cloud Sec Engineer 
 
 About Me:
 
@@ -19,18 +13,12 @@ About Me:
 
 
 
-
-### ⚗️ Projects 
-
-W.I.P
-
-
 ### 👍 Interests 
 
 - 🚀 **Security (on-Prem/Cloud)**
 - 🌌 **Code (Python)**
 - 🧮 **Learning anything related to cloud and security**
-- 📗 **Books: Linux Basics For Hackers**
+- 📗 Currently Reading: Linux Basics For Hackers | Practical Cloud Security: A Guide for Secure Design and Deployment by Chris Dotson
 
 
   ---
