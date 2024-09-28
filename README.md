@@ -5,7 +5,7 @@
 About Me:
 
 - 🧪 **Currently working on:** Gaining more hands-on Experience in the cloud with cloud projects
-- 🔬**Currently learning:** New AWS Services  
+- 🔬 LetsDefend Profile: https://app.letsdefend.io/user/storms887
 - 🥼 **Collaborating on:** N/A
 - 📐 **I’m looking for help with:** Cloud Engineering
 - ❓ **Ask me about:** Linux  
